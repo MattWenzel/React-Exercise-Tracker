@@ -25,7 +25,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/your-username/exercise-tracker.git
+git clone https://github.com/MattWenzel/React-Exercise-Tracker.git
 ```
 
 2. Navigate to the project folder:
@@ -37,6 +37,7 @@ cd exercise-tracker
 3. Install dependencies for the backend:
 
 ```
+cd backend
 npm install
 ```
 
@@ -59,29 +60,25 @@ cd frontend
 npm install
 ```
 
-7. Build the frontend application:
+## Usage
 
-```
-npm run build
-```
+1. Start the backend server:
 
-8. Navigate back to the root folder:
-
-```
-cd ..
-```
-
-9. Start the server:
+Navigate to the backend folder and run the following command:
 
 ```
 npm start
 ```
 
-Your Exercise Tracker application is now up and running!
+2. Start the frontend server:
 
-## Usage
+Navigate to the frontend folder and run the following command:
 
-Open a web browser and navigate to \`http://localhost:your_port_number\` to access the Exercise Tracker application.
+```
+npm start
+```
+
+Your Exercise Tracker application is now up and running! The frontend development server will automatically open a web browser and navigate to http://localhost:8000 (or another available port) to access the Exercise Tracker application.
 
 ## API Endpoints
 
