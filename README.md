@@ -9,8 +9,6 @@ A full-stack exercise tracking application developed using React, Node.js, Expre
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [API Endpoints](#api-endpoints)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Getting Started
 
